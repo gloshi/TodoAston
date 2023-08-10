@@ -1,0 +1,31 @@
+.container {
+  position: relative;
+  margin-bottom: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(79, 135, 219);
+}
+.containerArchived {
+  margin-bottom: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(102, 115, 134);
+}
+.text {
+  text-align: center;
+  h3 {
+    font-size: 22px;
+  }
+  p {
+    font-size: 12px;
+  }
+}
+.btn {
+  cursor: pointer;
+}
